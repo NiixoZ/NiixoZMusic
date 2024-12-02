@@ -1,6 +1,17 @@
-# Tauri + React
+# NiixoZ Music
 
-This template should help get you started developing with Tauri and React in Vite.
+A simple and cool desktop/mobile application for listening music and downloading then from youtube !
+
+# Frameworks
+
+Tauri + React + TailwindCSS
+
+# Testing
+
+Need: 
+- Rust
+- Cargo
+- A PC 
 
 ## Recommended IDE Setup
 
